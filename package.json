@@ -1,0 +1,30 @@
+{
+  "name": "@swellaby/mocha-sonar-reporter",
+  "version": "0.1.0",
+  "description": "Mocha reporter for Sonar-friendly test results format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "sonar",
+    "tests",
+    "sonarqube",
+    "sonarcloud"
+  ],
+  "author": {
+    "name": "Swellaby",
+    "email": "opensource@swellaby.com",
+    "url": "http://swellaby.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swellaby/mocha-sonar-reporter/issues"
+  },
+  "homepage": "https://github.com/swellaby/mocha-sonar-reporter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swellaby/mocha-sonar-reporter.git"
+  }
+}
